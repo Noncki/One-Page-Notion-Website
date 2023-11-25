@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'Noncki',
 
   // open graph metadata (optional)
-  description: '探索经典，打开新的记录方式',
+  description: '探索经典-打开新的记录方式',
 
   // social usernames (optional)
   twitter: 'Noncki123',
